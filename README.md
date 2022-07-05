@@ -2,6 +2,8 @@
    <img src="https://i.im.ge/2022/07/05/uiCptD.gif" alt="Logo Next Level Week Return" />
 </h1>
 
+![image](https://i.im.ge/2022/07/05/uiCptD.gif)
+
 <p align="center" margin-top="25px" >
 <a href="https://nlw-return-lemon-alpha.vercel.app/" target="_blank">Confira o projeto clicando aqui</a>
 </p>
