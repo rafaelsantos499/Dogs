@@ -9,7 +9,7 @@
 ![image](https://i.im.ge/2022/07/05/uiCptD.gif)
 
 <p align="center" margin-top="25px" >
-<a href="https://rafaelsantos499.github.io/Dogs/" target="_blank">Confira o projeto clicando aqui</a>
+<a href="https://rafaelsantos499.github.io/Dogs/" target="_blank">Confira o projeto clicando aqui.</a>
 </p>
 
 ## 🏃‍♂️Jornada
