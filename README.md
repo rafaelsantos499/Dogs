@@ -6,7 +6,7 @@
 
 </div>
 
-![image](./src//Assets//GifDogs.gif)
+![image](https://i.im.ge/2022/07/05/uiCptD.gif)
 
 <p align="center" margin-top="25px" >
 <a href="https://rafaelsantos499.github.io/Dogs/" target="_blank">Confira o projeto clicando aqui</a>
@@ -28,7 +28,7 @@ Foi Utilizado [Victory.js](https://formidable.com/open-source/victory/) uma bibl
 
 Com base na quantidade de visualização das fotos.
 
-![image](./src/Assets/Capturar.PNG)
+![image](https://i.im.ge/2022/07/05/uiCvk4.png)
 
 ## 🧪 Tecnologias
 
