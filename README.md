@@ -1,8 +1,8 @@
+# Dogs
+
 <h1 align="center">
    <img src="./GifDogs.gif" alt="Logo Next Level Week Return" />
 </h1>
-
-![image](./GifDogs.gif)
 
 <p align="center" margin-top="25px" >
 <a href="https://rafaelsantos499.github.io/Dogs/" target="_blank">Confira o projeto clicando aqui</a>
