@@ -1,15 +1,9 @@
-<div > 
-<h1 align="center">
-   <svg width="50" height="56" viewBox="0 0 28 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M14 10h1.652c1.708 0 2.63 2.004 1.518 3.302l-1.618 1.887A4.501 4.501 0 0024.5 14.5a1.5 1.5 0 013 0A7.5 7.5 0 0114 19 7.5 7.5 0 01.5 14.5a1.5 1.5 0 013 0 4.5 4.5 0 008.948.689l-1.618-1.887C9.718 12.004 10.64 10 12.35 10H14z" fill="#ffffff"></path><circle cx="21" cy="3" r="3" fill="#ffffff"></circle><circle cx="7" cy="3" r="3" fill="#ffffff"></circle></svg>   
-   <p align="center" >DOGS</p>
-</h1>
+<p align="center" ><svg align="center" width="50" height="56" viewBox="0 0 28 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M14 10h1.652c1.708 0 2.63 2.004 1.518 3.302l-1.618 1.887A4.501 4.501 0 0024.5 14.5a1.5 1.5 0 013 0A7.5 7.5 0 0114 19 7.5 7.5 0 01.5 14.5a1.5 1.5 0 013 0 4.5 4.5 0 008.948.689l-1.618-1.887C9.718 12.004 10.64 10 12.35 10H14z" fill="#ffffff"></path><circle cx="21" cy="3" r="3" fill="#ffffff"></circle><circle cx="7" cy="3" r="3" fill="#ffffff"></circle></svg></p>
 
-</div>
-
-![image](https://i.im.ge/2022/07/05/uiCptD.gif)
+<p align="center" ><img src="https://i.im.ge/2022/07/05/uiCptD.gif" alt="Musicalizando"></p>
 
 <p align="center" margin-top="25px" >
-<a href="https://rafaelsantos499.github.io/Dogs/" target="_blank">Confira o projeto clicando aqui.</a>
+<a href="https://rafaelsantos499.github.io/Dogs/" target="_blank">Confira o projeto clicando aqui</a>
 </p>
 
 ## 🏃‍♂️Jornada
