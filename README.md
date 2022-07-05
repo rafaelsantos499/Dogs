@@ -6,7 +6,7 @@
 
 </div>
 
-![image](https://user-images.githubusercontent.com/84051326/175439382-9b5880b2-f0e5-49fa-8f5c-80d4d7703d14.gif)
+![image](./src//Assets//GifDogs.gif)
 
 <p align="center" margin-top="25px" >
 <a href="https://rafaelsantos499.github.io/Dogs/" target="_blank">Confira o projeto clicando aqui</a>
@@ -25,6 +25,10 @@ Nesse projeto aplicamos vários conceitos do React.🚀
 - [Memo]()
 
 Foi Utilizado [Victory.js](https://formidable.com/open-source/victory/) uma biblioteca de componentes React combinável usada para construir visualização e dados interativos.
+
+Com base na quantidade de visualização das fotos.
+
+![image](./src/Assets/Capturar.PNG)
 
 ## 🧪 Tecnologias
 
