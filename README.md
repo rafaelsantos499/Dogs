@@ -24,7 +24,7 @@ Foi Utilizado [Victory.js](https://formidable.com/open-source/victory/) uma bibl
 
 Com base na quantidade de visualização das fotos.
 
-![image](https://i.im.ge/2022/07/05/uiCvk4.png)
+![image](./Capturar.PNG)
 
 ## 🧪 Tecnologias
 
